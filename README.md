@@ -15,7 +15,7 @@ This project is a web application that allows administrators to perform CRUD (Cr
 * Express.js: Web application framework for Node.js.
 * MongoDB: NoSQL database for storing employee data.
 * Mongoose: ODM (Object Data Modeling) library for MongoDB and Node.js.
-* 
+
 # Installation
 Prerequisites
 Ensure you have the following installed on your system:
